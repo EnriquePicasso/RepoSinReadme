@@ -1,0 +1,7 @@
+#ignoro todos los ficheros .jpg
+
+*.jpeg
+
+#ignoro el fichero ficheroignorado.txt
+
+ficheroignorado.txt
